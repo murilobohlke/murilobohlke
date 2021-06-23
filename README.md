@@ -7,8 +7,11 @@
 
 Welcome to my GitHub page! My name is Murilo, I'm from Brazil and I'm finishing my graduate Computer Engineering at the University of Pelotas.
 
-### 🌱 I'm currently learning
+### 🌱 I'm currently learning:
 - Flutter (Mobile Development);
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 
 ### ✔️ I know a little bit about:
 - React Native (Mobile Development);
@@ -16,6 +19,12 @@ Welcome to my GitHub page! My name is Murilo, I'm from Brazil and I'm finishing 
 - JavaScript;
 - Python;
 - MySQL;
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="15%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 ### 💡 Goals for 2021:
 - Finish my graduate course;
@@ -26,19 +35,6 @@ Welcome to my GitHub page! My name is Murilo, I'm from Brazil and I'm finishing 
 
 ### ⚡ Interested in:
 - Mobile Development;
-
-
-### 🛠 Languages and Tools:
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="15%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://miro.medium.com/max/1400/1*0LS0sRb2kjHtIIWtKAt-iw.png"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
-
 
 ![muka_stats](https://github-readme-stats.vercel.app/api?username=murilobohlke&show_icons=true&theme=tokyonight)
 
