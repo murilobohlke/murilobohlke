@@ -5,8 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murilobohlke/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murilosbohlkefra@gmail.com)
 
-Welcome to my GitHub page! My name is Murilo, I'm from Brazil and I'm finishing my graduate Computer Engineering at the University of Pelotas.
+:call_me_hand: Welcome to my GitHub page! My name is Murilo Böhlke :ok_man:
 
+👨‍🎓:computer: Graduating in Computer Engineering at [**Universidade Federal de Pelotas**](https://portal.ufpel.edu.br/)
+
+:man_technologist: Mobile Developer and :money_with_wings: Administrative and Financial Advisor at [**Hut8 - Empresa Júnior da Computação**](http://www.hut8.com.br/)
 ### 🌱 I'm currently learning:
 - Flutter (Mobile Development);
 
