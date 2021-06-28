@@ -11,7 +11,7 @@
 
 :man_technologist: Mobile Developer and :money_with_wings: Administrative and Financial Advisor at [**Hut8 - Empresa Júnior da Computação**](http://www.hut8.com.br/)
 ### 🌱 I'm currently learning:
-- Flutter (Mobile Development);
+- Flutter (Mobile Development) and Dart;
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
