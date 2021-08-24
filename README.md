@@ -11,13 +11,13 @@
 
 :man_technologist: Mobile Developer at [**Hut8 - Empresa Júnior da Computação**](http://www.hut8.com.br/)
 ### 🌱 I'm currently learning:
-- Flutter (Mobile Development) and Dart;
+- Flutter :blue_heart: and Dart;
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 
 ### ✔️ I know a little bit about:
-- React Native (Mobile Development);
+- React Native;
 - Java (Android Development);
 - JavaScript;
 - Python;
@@ -30,8 +30,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 ### 💡 Goals for 2021:
-- Finish my graduate course;
-- Learn the basics of Flutter and Dart;
+- Finish my graduate course; ✔️
+- Learn the basics of Flutter and Dart; ✔️
 - Become skilled in Flutter;
 - Find a job;
 - Grow as a person;
