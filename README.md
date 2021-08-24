@@ -30,11 +30,11 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 ### 💡 Goals for 2021:
-- Finish my graduate course ✔️
-- Learn the basics of Flutter and Dart ✔️
-- Become skilled in Flutter
-- Find a job
-- Grow as a person
+- Finish my graduate course ✔️;
+- Learn the basics of Flutter and Dart ✔️;
+- Become skilled in Flutter;
+- Find a job;
+- Grow as a person;
 
 ### ⚡ Interested in:
 - Mobile Development;
