@@ -7,9 +7,9 @@
 
 :call_me_hand: Welcome to my GitHub page! My name is Murilo Böhlke :ok_man:
 
-👨‍🎓:computer: Graduating in Computer Engineering at [**Universidade Federal de Pelotas**](https://portal.ufpel.edu.br/)
+👨‍🎓:computer: Bachelor in Computer Engineering graduated at [**Universidade Federal de Pelotas**](https://portal.ufpel.edu.br/)
 
-:man_technologist: Mobile Developer and :money_with_wings: Administrative and Financial Advisor at [**Hut8 - Empresa Júnior da Computação**](http://www.hut8.com.br/)
+:man_technologist: Mobile Developer at [**Hut8 - Empresa Júnior da Computação**](http://www.hut8.com.br/)
 ### 🌱 I'm currently learning:
 - Flutter (Mobile Development) and Dart;
 
