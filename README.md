@@ -9,7 +9,7 @@
 
 👨‍🎓:computer: Bachelor in Computer Engineering graduated at [**Universidade Federal de Pelotas**](https://portal.ufpel.edu.br/)
 
-:man_technologist: Flutter Developer at [**Precisa Informática**](http://http://precisa.net.br/)
+:man_technologist: Flutter Developer at [**Precisa Informática**](http://precisa.net.br/)
 ### 🌱 I'm currently learning:
 - Flutter :blue_heart: and Dart;
 
