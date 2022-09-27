@@ -51,4 +51,4 @@ const murilo = {
 
 <br/>
 
-![My_Stats](https://github-readme-stats.vercel.app/api?username=murilobohlke&show_icons=true&theme=tokyonight)
+![My_Stats](https://github-readme-stats.vercel.app/api?username=murilobohlke&show_icons=true&count_private=true&theme=tokyonight)
