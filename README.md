@@ -40,7 +40,7 @@ const murilo = {
 
 - Docker and containers orchestration
 - Clean architecture
-- User interface and User Experience
+- User interface and user experience
 
 ### 💡 Goals for 2022
 
