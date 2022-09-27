@@ -16,7 +16,7 @@
 ### ⚡ Interested in Mobile Development
 <div>
 <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-<img width="13%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png">
+<img width="16%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png">
 </div>
 
 ### 🌱 Tech stack
