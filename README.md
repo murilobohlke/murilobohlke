@@ -25,7 +25,7 @@
 ```javascript
 const murilo = {
   code: [Typescript, Javascript, Dart, HTML, CSS, Java, Python],
-  tools: [Flutter, React Native, React JS, Node, Figma, Firebase, Docker, Git],
+  tools: [Flutter, React Native, React JS, Flutter Web, Node, Figma, Firebase, Docker, Git],
   frontEnd: true,
   backEnd: true,
   uiUx: true
