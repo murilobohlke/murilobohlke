@@ -16,7 +16,7 @@
 ### ⚡ Interested in Mobile Development
 <div>
 <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-<img width="15%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png">
+<img width="13%" src="https://www.asapdevelopers.com/wp-content/uploads/2017/11/react-native-banner-1024x300-e1510060053599-1.png">
 </div>
 
 ### 🌱 Tech stack
@@ -33,7 +33,7 @@ const murilo = {
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobohlke&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobohlke&layout=compact&theme=tokyonight)] (https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 I'm currently learning
 
@@ -50,4 +50,4 @@ const murilo = {
 
 <br/>
 
-![My_Stats](https://github-readme-stats.vercel.app/api?username=murilobohlke&show_icons=true&count_private=true&theme=tokyonight)
+[![My_Stats](https://github-readme-stats.vercel.app/api?username=murilobohlke&show_icons=true&count_private=true&theme=tokyonight)] (https://github.com/anuraghazra/github-readme-stats)
